@@ -88,11 +88,11 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1598545238,
+    "wof:lastmodified":1600985802,
     "wof:name":"DL725 (ATL-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-08",
+    "wof:repo":"sfomuseum-data-flights-2020-08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

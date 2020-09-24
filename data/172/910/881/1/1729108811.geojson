@@ -94,11 +94,11 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1596903608,
+    "wof:lastmodified":1600985890,
     "wof:name":"KL5418 (JFK-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-08",
+    "wof:repo":"sfomuseum-data-flights-2020-08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

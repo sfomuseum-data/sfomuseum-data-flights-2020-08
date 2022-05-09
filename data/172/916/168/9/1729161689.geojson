@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1598385600,
     "flysfo:timestamp": 1598396400,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-112.501507,45.952962",
+    "geom:latitude": 41.785476,
+    "geom:longitude": -117.43622500000001,
     "iata:airline": "EK",
     "icao:airline": "UAE",
     "iso:country": "US",
@@ -29,7 +29,7 @@
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159284333,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": -1,
+    "sfomuseum:departure_id": 102527603,
     "sfomuseum:flight_id": "20200825-A-UAE-11111",
     "sfomuseum:flight_number": [
       "UAE11111",
@@ -54,7 +54,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1598460815,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "1609979e6be8509534b8ecd13fd87e95",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -90,7 +90,7 @@
       1159284333,
       1477930295
     ],
-    "wof:lastmodified": 1651268635,
+    "wof:lastmodified": 1652124113,
     "wof:name": "EK11111 (BTM-SFO)",
     "wof:parent_id": 1477930295,
     "wof:placetype": "event",
@@ -100,10 +100,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -112.501507,
+    45.952962
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-112.501507,45.952962],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

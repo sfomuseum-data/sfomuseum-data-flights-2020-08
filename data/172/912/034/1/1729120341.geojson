@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1597165200,
     "flysfo:timestamp": 1597165500,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-112.501507,45.952962",
+    "geom:latitude": 41.785476,
+    "geom:longitude": -117.43622500000001,
     "iata:airline": "B6",
     "icao:airline": "JBU",
     "iso:country": "US",
@@ -29,7 +29,7 @@
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": -1,
+    "sfomuseum:departure_id": 102527603,
     "sfomuseum:flight_id": "20200811-A-JBU-123",
     "sfomuseum:flight_number": [
       "JBU123",
@@ -54,7 +54,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1597248486,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "1609979e6be8509534b8ecd13fd87e95",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -90,7 +90,7 @@
       1159284583,
       1477881719
     ],
-    "wof:lastmodified": 1651268683,
+    "wof:lastmodified": 1652124114,
     "wof:name": "B6123 (BTM-SFO)",
     "wof:parent_id": 1477881719,
     "wof:placetype": "event",
@@ -100,10 +100,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -112.501507,
+    45.952962
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-112.501507,45.952962],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

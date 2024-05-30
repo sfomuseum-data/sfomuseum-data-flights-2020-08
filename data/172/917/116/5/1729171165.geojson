@@ -96,10 +96,13 @@
       1477930483,
       1159285413
     ],
-    "wof:lastmodified": 1653351816,
+    "wof:lastmodified": 1717031268,
     "wof:name": "NH7366 (SFO-SNA)",
     "wof:parent_id": 1729792669,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],

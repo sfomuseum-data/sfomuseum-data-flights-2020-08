@@ -54,10 +54,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1651268761,
+    "wof:lastmodified": 1717031274,
     "wof:name": "AA2548 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],

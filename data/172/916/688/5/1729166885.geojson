@@ -54,10 +54,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1651268756,
+    "wof:lastmodified": 1717031273,
     "wof:name": "AS1260 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],

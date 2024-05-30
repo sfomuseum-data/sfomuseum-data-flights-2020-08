@@ -90,10 +90,13 @@
       1159284261,
       1477930321
     ],
-    "wof:lastmodified": 1653351820,
+    "wof:lastmodified": 1717031271,
     "wof:name": "DL810 (SFO-ATL)",
     "wof:parent_id": 1729792463,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -54,10 +54,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1651268737,
+    "wof:lastmodified": 1717031271,
     "wof:name": "DL8076 (MEX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -90,10 +90,13 @@
       1159283813,
       1477930355
     ],
-    "wof:lastmodified": 1653351717,
+    "wof:lastmodified": 1717031268,
     "wof:name": "AS2317 (PHX-SFO)",
     "wof:parent_id": 1729792409,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],
